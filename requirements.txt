@@ -1,5 +1,5 @@
-streamlit==1.30.0
-tensorflow==2.13.0
-Pillow==10.4.0
-numpy==1.26.4
-json5==2.0.0
+streamlit
+tensorflow
+Pillow
+numpy
+json5
